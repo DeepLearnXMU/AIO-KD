@@ -1,6 +1,6 @@
 # Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation (AIO-KD)
 
-Source code for the paper "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation" (EMNLP2023 long paper). Our code are implemented based on Fairseq tool.
+Source code for the paper "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation" (EMNLP2023 long paper). Notice that our AIO-KD is implemented based on [Fairseq tool](https://github.com/facebookresearch/fairseq) and our main modification compared to the original Fairseq is the addition of a code file [ "cross_entropy_with_subnetwork_distillation.py"](https://github.com/DeepLearnXMU/AIO-KD/blob/main/fairseq/criterions/cross_entropy_with_subnetwork_distillation.py)
 
 ## Requirements
 
@@ -8,6 +8,16 @@ Source code for the paper "Exploring All-In-One Knowledge Distillation Framework
 - CUDA 11.7
 - Pytorch 1.13.0
 - Fairseq 0.12.2
+
+## Citation
+```
+@inproceedings{miao2023exploring,
+title={Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation},
+  author={Miao, Zhongjian and Zhang, Wen and Su, Jinsong and Li, Xiang and Luan, Jian and Chen, Yidong and Wang, Bin and Zhang, Min},
+  booktitle={Proc. of EMNLP},
+  year={2023}
+}
+```
 
 ## Quickstart
 
