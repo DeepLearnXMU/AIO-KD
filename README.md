@@ -96,8 +96,3 @@ for el in 2 3 4 5 6
     done
 done
 ```
-
-=======
-# AIO-KD
-Code for "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation" (EMNLP 2023)
->>>>>>> 5a651a38cced9da1aa83efa8ba70b6eb9ba46d08
