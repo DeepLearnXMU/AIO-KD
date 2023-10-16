@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation
+# Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation (AIO-KD)
 
-Source code for the paper "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation". Our code are implemented based on Fairseq tool, and we will release our code upon the acceptance of this paper.
+Source code for the paper "Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation" (EMNLP2023 long paper). Our code are implemented based on Fairseq tool.
 
 ## Requirements
 
